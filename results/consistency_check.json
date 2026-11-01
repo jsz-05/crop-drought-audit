@@ -1,0 +1,11 @@
+{
+  "county_weeks": 3861,
+  "state_weeks": 39,
+  "summary_queries_matched": 117,
+  "transitions": 36,
+  "evaluation_transitions": 24,
+  "evaluation_opposite_changes_at_least_1pp": 1,
+  "center_reporting_disagreements": 6,
+  "area_reporting_disagreements": 0,
+  "summary_aggregation_checked": true
+}

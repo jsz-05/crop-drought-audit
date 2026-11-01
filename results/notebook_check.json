@@ -1,0 +1,30 @@
+{
+  "clean_copy": true,
+  "results": [
+    {
+      "state": "KS",
+      "before": "20230829",
+      "after": "20230905",
+      "cells": 16,
+      "county": null,
+      "code_cells_passed": 6
+    },
+    {
+      "state": "IA",
+      "before": "20220802",
+      "after": "20220809",
+      "cells": 4,
+      "county": null,
+      "code_cells_passed": 6
+    },
+    {
+      "state": "NE",
+      "before": "20230829",
+      "after": "20230905",
+      "cells": 1,
+      "county": "Brown",
+      "code_cells_passed": 6
+    }
+  ],
+  "nonweekly_interval_rejected": true
+}

@@ -1,0 +1,21 @@
+{
+  "county_week_records_matched": 3861,
+  "state_week_records_matched": 39,
+  "fraction_tolerance": 1e-09,
+  "state_percentage_tolerance": 1e-08,
+  "timings": [
+    {
+      "state": "IA",
+      "seconds": 4.729568624985404
+    },
+    {
+      "state": "NE",
+      "seconds": 5.955699332989752
+    },
+    {
+      "state": "KS",
+      "seconds": 5.125788666016888
+    }
+  ],
+  "interpretation": "Deterministic reproduction of stored map comparisons, not uncertainty over future states or dates."
+}

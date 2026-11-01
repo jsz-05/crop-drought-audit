@@ -1,0 +1,9 @@
+{
+  "task": "Recompute all 3861 county-week pixel counts and 39 state aggregates from locally stored packed masks; source-file download and preparation excluded.",
+  "hardware": "Apple M4 Pro",
+  "operating_system": "Darwin",
+  "python": "3.12.14",
+  "elapsed_seconds": 15.86306912501459,
+  "peak_resident_bytes": 2285813760,
+  "cache_note": "Public inputs already stored locally. No cold OS-cache claim or relative algorithm speed comparison."
+}

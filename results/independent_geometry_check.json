@@ -1,0 +1,1916 @@
+{
+  "method": "GEOS vector point-in-polygon for every mapped corn cell in all 105 Kansas county windows; no GDAL rasterization in this check.",
+  "county_dates_checked": 210,
+  "all_county_corn_counts_match": true,
+  "all_county_drought_counts_match": true,
+  "state_totals": {
+    "20230829": {
+      "point_count": 14334600,
+      "raster_count": 14334600,
+      "corn_point_count": 24982864,
+      "corn_raster_count": 24982864,
+      "point_exposure_pct": 57.37772899055929,
+      "raster_exposure_pct": 57.37772899055929
+    },
+    "20230905": {
+      "point_count": 14827464,
+      "raster_count": 14827464,
+      "corn_point_count": 24982864,
+      "corn_raster_count": 24982864,
+      "point_exposure_pct": 59.35053723224047,
+      "raster_exposure_pct": 59.35053723224047
+    }
+  },
+  "county_results": [
+    {
+      "county": "Allen",
+      "fips": "20001",
+      "valid_date": "20230829",
+      "corn_point_count": 145081,
+      "corn_raster_count": 145081,
+      "drought_point_count": 145081,
+      "drought_raster_count": 145081
+    },
+    {
+      "county": "Allen",
+      "fips": "20001",
+      "valid_date": "20230905",
+      "corn_point_count": 145081,
+      "corn_raster_count": 145081,
+      "drought_point_count": 145081,
+      "drought_raster_count": 145081
+    },
+    {
+      "county": "Anderson",
+      "fips": "20003",
+      "valid_date": "20230829",
+      "corn_point_count": 173652,
+      "corn_raster_count": 173652,
+      "drought_point_count": 173652,
+      "drought_raster_count": 173652
+    },
+    {
+      "county": "Anderson",
+      "fips": "20003",
+      "valid_date": "20230905",
+      "corn_point_count": 173652,
+      "corn_raster_count": 173652,
+      "drought_point_count": 173652,
+      "drought_raster_count": 173652
+    },
+    {
+      "county": "Atchison",
+      "fips": "20005",
+      "valid_date": "20230829",
+      "corn_point_count": 284339,
+      "corn_raster_count": 284339,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Atchison",
+      "fips": "20005",
+      "valid_date": "20230905",
+      "corn_point_count": 284339,
+      "corn_raster_count": 284339,
+      "drought_point_count": 12099,
+      "drought_raster_count": 12099
+    },
+    {
+      "county": "Barber",
+      "fips": "20007",
+      "valid_date": "20230829",
+      "corn_point_count": 23268,
+      "corn_raster_count": 23268,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Barber",
+      "fips": "20007",
+      "valid_date": "20230905",
+      "corn_point_count": 23268,
+      "corn_raster_count": 23268,
+      "drought_point_count": 1927,
+      "drought_raster_count": 1927
+    },
+    {
+      "county": "Barton",
+      "fips": "20009",
+      "valid_date": "20230829",
+      "corn_point_count": 139476,
+      "corn_raster_count": 139476,
+      "drought_point_count": 139476,
+      "drought_raster_count": 139476
+    },
+    {
+      "county": "Barton",
+      "fips": "20009",
+      "valid_date": "20230905",
+      "corn_point_count": 139476,
+      "corn_raster_count": 139476,
+      "drought_point_count": 139476,
+      "drought_raster_count": 139476
+    },
+    {
+      "county": "Bourbon",
+      "fips": "20011",
+      "valid_date": "20230829",
+      "corn_point_count": 56387,
+      "corn_raster_count": 56387,
+      "drought_point_count": 56387,
+      "drought_raster_count": 56387
+    },
+    {
+      "county": "Bourbon",
+      "fips": "20011",
+      "valid_date": "20230905",
+      "corn_point_count": 56387,
+      "corn_raster_count": 56387,
+      "drought_point_count": 56387,
+      "drought_raster_count": 56387
+    },
+    {
+      "county": "Brown",
+      "fips": "20013",
+      "valid_date": "20230829",
+      "corn_point_count": 548740,
+      "corn_raster_count": 548740,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Brown",
+      "fips": "20013",
+      "valid_date": "20230905",
+      "corn_point_count": 548740,
+      "corn_raster_count": 548740,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Butler",
+      "fips": "20015",
+      "valid_date": "20230829",
+      "corn_point_count": 317157,
+      "corn_raster_count": 317157,
+      "drought_point_count": 317157,
+      "drought_raster_count": 317157
+    },
+    {
+      "county": "Butler",
+      "fips": "20015",
+      "valid_date": "20230905",
+      "corn_point_count": 317157,
+      "corn_raster_count": 317157,
+      "drought_point_count": 317157,
+      "drought_raster_count": 317157
+    },
+    {
+      "county": "Chase",
+      "fips": "20017",
+      "valid_date": "20230829",
+      "corn_point_count": 34703,
+      "corn_raster_count": 34703,
+      "drought_point_count": 34703,
+      "drought_raster_count": 34703
+    },
+    {
+      "county": "Chase",
+      "fips": "20017",
+      "valid_date": "20230905",
+      "corn_point_count": 34703,
+      "corn_raster_count": 34703,
+      "drought_point_count": 34703,
+      "drought_raster_count": 34703
+    },
+    {
+      "county": "Chautauqua",
+      "fips": "20019",
+      "valid_date": "20230829",
+      "corn_point_count": 11907,
+      "corn_raster_count": 11907,
+      "drought_point_count": 11907,
+      "drought_raster_count": 11907
+    },
+    {
+      "county": "Chautauqua",
+      "fips": "20019",
+      "valid_date": "20230905",
+      "corn_point_count": 11907,
+      "corn_raster_count": 11907,
+      "drought_point_count": 11907,
+      "drought_raster_count": 11907
+    },
+    {
+      "county": "Cherokee",
+      "fips": "20021",
+      "valid_date": "20230829",
+      "corn_point_count": 237007,
+      "corn_raster_count": 237007,
+      "drought_point_count": 15089,
+      "drought_raster_count": 15089
+    },
+    {
+      "county": "Cherokee",
+      "fips": "20021",
+      "valid_date": "20230905",
+      "corn_point_count": 237007,
+      "corn_raster_count": 237007,
+      "drought_point_count": 12216,
+      "drought_raster_count": 12216
+    },
+    {
+      "county": "Cheyenne",
+      "fips": "20023",
+      "valid_date": "20230829",
+      "corn_point_count": 381084,
+      "corn_raster_count": 381084,
+      "drought_point_count": 162918,
+      "drought_raster_count": 162918
+    },
+    {
+      "county": "Cheyenne",
+      "fips": "20023",
+      "valid_date": "20230905",
+      "corn_point_count": 381084,
+      "corn_raster_count": 381084,
+      "drought_point_count": 166516,
+      "drought_raster_count": 166516
+    },
+    {
+      "county": "Clark",
+      "fips": "20025",
+      "valid_date": "20230829",
+      "corn_point_count": 13049,
+      "corn_raster_count": 13049,
+      "drought_point_count": 3521,
+      "drought_raster_count": 3521
+    },
+    {
+      "county": "Clark",
+      "fips": "20025",
+      "valid_date": "20230905",
+      "corn_point_count": 13049,
+      "corn_raster_count": 13049,
+      "drought_point_count": 9956,
+      "drought_raster_count": 9956
+    },
+    {
+      "county": "Clay",
+      "fips": "20027",
+      "valid_date": "20230829",
+      "corn_point_count": 233363,
+      "corn_raster_count": 233363,
+      "drought_point_count": 203380,
+      "drought_raster_count": 203380
+    },
+    {
+      "county": "Clay",
+      "fips": "20027",
+      "valid_date": "20230905",
+      "corn_point_count": 233363,
+      "corn_raster_count": 233363,
+      "drought_point_count": 215252,
+      "drought_raster_count": 215252
+    },
+    {
+      "county": "Cloud",
+      "fips": "20029",
+      "valid_date": "20230829",
+      "corn_point_count": 249222,
+      "corn_raster_count": 249222,
+      "drought_point_count": 249222,
+      "drought_raster_count": 249222
+    },
+    {
+      "county": "Cloud",
+      "fips": "20029",
+      "valid_date": "20230905",
+      "corn_point_count": 249222,
+      "corn_raster_count": 249222,
+      "drought_point_count": 249222,
+      "drought_raster_count": 249222
+    },
+    {
+      "county": "Coffey",
+      "fips": "20031",
+      "valid_date": "20230829",
+      "corn_point_count": 123421,
+      "corn_raster_count": 123421,
+      "drought_point_count": 123421,
+      "drought_raster_count": 123421
+    },
+    {
+      "county": "Coffey",
+      "fips": "20031",
+      "valid_date": "20230905",
+      "corn_point_count": 123421,
+      "corn_raster_count": 123421,
+      "drought_point_count": 123421,
+      "drought_raster_count": 123421
+    },
+    {
+      "county": "Comanche",
+      "fips": "20033",
+      "valid_date": "20230829",
+      "corn_point_count": 7734,
+      "corn_raster_count": 7734,
+      "drought_point_count": 4369,
+      "drought_raster_count": 4369
+    },
+    {
+      "county": "Comanche",
+      "fips": "20033",
+      "valid_date": "20230905",
+      "corn_point_count": 7734,
+      "corn_raster_count": 7734,
+      "drought_point_count": 7413,
+      "drought_raster_count": 7413
+    },
+    {
+      "county": "Cowley",
+      "fips": "20035",
+      "valid_date": "20230829",
+      "corn_point_count": 127476,
+      "corn_raster_count": 127476,
+      "drought_point_count": 127476,
+      "drought_raster_count": 127476
+    },
+    {
+      "county": "Cowley",
+      "fips": "20035",
+      "valid_date": "20230905",
+      "corn_point_count": 127476,
+      "corn_raster_count": 127476,
+      "drought_point_count": 127476,
+      "drought_raster_count": 127476
+    },
+    {
+      "county": "Crawford",
+      "fips": "20037",
+      "valid_date": "20230829",
+      "corn_point_count": 178677,
+      "corn_raster_count": 178677,
+      "drought_point_count": 120706,
+      "drought_raster_count": 120706
+    },
+    {
+      "county": "Crawford",
+      "fips": "20037",
+      "valid_date": "20230905",
+      "corn_point_count": 178677,
+      "corn_raster_count": 178677,
+      "drought_point_count": 118095,
+      "drought_raster_count": 118095
+    },
+    {
+      "county": "Decatur",
+      "fips": "20039",
+      "valid_date": "20230829",
+      "corn_point_count": 550074,
+      "corn_raster_count": 550074,
+      "drought_point_count": 538093,
+      "drought_raster_count": 538093
+    },
+    {
+      "county": "Decatur",
+      "fips": "20039",
+      "valid_date": "20230905",
+      "corn_point_count": 550074,
+      "corn_raster_count": 550074,
+      "drought_point_count": 539105,
+      "drought_raster_count": 539105
+    },
+    {
+      "county": "Dickinson",
+      "fips": "20041",
+      "valid_date": "20230829",
+      "corn_point_count": 97321,
+      "corn_raster_count": 97321,
+      "drought_point_count": 87862,
+      "drought_raster_count": 87862
+    },
+    {
+      "county": "Dickinson",
+      "fips": "20041",
+      "valid_date": "20230905",
+      "corn_point_count": 97321,
+      "corn_raster_count": 97321,
+      "drought_point_count": 93602,
+      "drought_raster_count": 93602
+    },
+    {
+      "county": "Doniphan",
+      "fips": "20043",
+      "valid_date": "20230829",
+      "corn_point_count": 397307,
+      "corn_raster_count": 397307,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Doniphan",
+      "fips": "20043",
+      "valid_date": "20230905",
+      "corn_point_count": 397307,
+      "corn_raster_count": 397307,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Douglas",
+      "fips": "20045",
+      "valid_date": "20230829",
+      "corn_point_count": 103885,
+      "corn_raster_count": 103885,
+      "drought_point_count": 13373,
+      "drought_raster_count": 13373
+    },
+    {
+      "county": "Douglas",
+      "fips": "20045",
+      "valid_date": "20230905",
+      "corn_point_count": 103885,
+      "corn_raster_count": 103885,
+      "drought_point_count": 51223,
+      "drought_raster_count": 51223
+    },
+    {
+      "county": "Edwards",
+      "fips": "20047",
+      "valid_date": "20230829",
+      "corn_point_count": 323060,
+      "corn_raster_count": 323060,
+      "drought_point_count": 323060,
+      "drought_raster_count": 323060
+    },
+    {
+      "county": "Edwards",
+      "fips": "20047",
+      "valid_date": "20230905",
+      "corn_point_count": 323060,
+      "corn_raster_count": 323060,
+      "drought_point_count": 323060,
+      "drought_raster_count": 323060
+    },
+    {
+      "county": "Elk",
+      "fips": "20049",
+      "valid_date": "20230829",
+      "corn_point_count": 24678,
+      "corn_raster_count": 24678,
+      "drought_point_count": 24678,
+      "drought_raster_count": 24678
+    },
+    {
+      "county": "Elk",
+      "fips": "20049",
+      "valid_date": "20230905",
+      "corn_point_count": 24678,
+      "corn_raster_count": 24678,
+      "drought_point_count": 24678,
+      "drought_raster_count": 24678
+    },
+    {
+      "county": "Ellis",
+      "fips": "20051",
+      "valid_date": "20230829",
+      "corn_point_count": 33830,
+      "corn_raster_count": 33830,
+      "drought_point_count": 33830,
+      "drought_raster_count": 33830
+    },
+    {
+      "county": "Ellis",
+      "fips": "20051",
+      "valid_date": "20230905",
+      "corn_point_count": 33830,
+      "corn_raster_count": 33830,
+      "drought_point_count": 33830,
+      "drought_raster_count": 33830
+    },
+    {
+      "county": "Ellsworth",
+      "fips": "20053",
+      "valid_date": "20230829",
+      "corn_point_count": 21058,
+      "corn_raster_count": 21058,
+      "drought_point_count": 21058,
+      "drought_raster_count": 21058
+    },
+    {
+      "county": "Ellsworth",
+      "fips": "20053",
+      "valid_date": "20230905",
+      "corn_point_count": 21058,
+      "corn_raster_count": 21058,
+      "drought_point_count": 21058,
+      "drought_raster_count": 21058
+    },
+    {
+      "county": "Finney",
+      "fips": "20055",
+      "valid_date": "20230829",
+      "corn_point_count": 548010,
+      "corn_raster_count": 548010,
+      "drought_point_count": 145336,
+      "drought_raster_count": 145336
+    },
+    {
+      "county": "Finney",
+      "fips": "20055",
+      "valid_date": "20230905",
+      "corn_point_count": 548010,
+      "corn_raster_count": 548010,
+      "drought_point_count": 79409,
+      "drought_raster_count": 79409
+    },
+    {
+      "county": "Ford",
+      "fips": "20057",
+      "valid_date": "20230829",
+      "corn_point_count": 205731,
+      "corn_raster_count": 205731,
+      "drought_point_count": 140467,
+      "drought_raster_count": 140467
+    },
+    {
+      "county": "Ford",
+      "fips": "20057",
+      "valid_date": "20230905",
+      "corn_point_count": 205731,
+      "corn_raster_count": 205731,
+      "drought_point_count": 162093,
+      "drought_raster_count": 162093
+    },
+    {
+      "county": "Franklin",
+      "fips": "20059",
+      "valid_date": "20230829",
+      "corn_point_count": 130320,
+      "corn_raster_count": 130320,
+      "drought_point_count": 126557,
+      "drought_raster_count": 126557
+    },
+    {
+      "county": "Franklin",
+      "fips": "20059",
+      "valid_date": "20230905",
+      "corn_point_count": 130320,
+      "corn_raster_count": 130320,
+      "drought_point_count": 130320,
+      "drought_raster_count": 130320
+    },
+    {
+      "county": "Geary",
+      "fips": "20061",
+      "valid_date": "20230829",
+      "corn_point_count": 54014,
+      "corn_raster_count": 54014,
+      "drought_point_count": 51979,
+      "drought_raster_count": 51979
+    },
+    {
+      "county": "Geary",
+      "fips": "20061",
+      "valid_date": "20230905",
+      "corn_point_count": 54014,
+      "corn_raster_count": 54014,
+      "drought_point_count": 54014,
+      "drought_raster_count": 54014
+    },
+    {
+      "county": "Gove",
+      "fips": "20063",
+      "valid_date": "20230829",
+      "corn_point_count": 505522,
+      "corn_raster_count": 505522,
+      "drought_point_count": 275092,
+      "drought_raster_count": 275092
+    },
+    {
+      "county": "Gove",
+      "fips": "20063",
+      "valid_date": "20230905",
+      "corn_point_count": 505522,
+      "corn_raster_count": 505522,
+      "drought_point_count": 301536,
+      "drought_raster_count": 301536
+    },
+    {
+      "county": "Graham",
+      "fips": "20065",
+      "valid_date": "20230829",
+      "corn_point_count": 283649,
+      "corn_raster_count": 283649,
+      "drought_point_count": 283649,
+      "drought_raster_count": 283649
+    },
+    {
+      "county": "Graham",
+      "fips": "20065",
+      "valid_date": "20230905",
+      "corn_point_count": 283649,
+      "corn_raster_count": 283649,
+      "drought_point_count": 283649,
+      "drought_raster_count": 283649
+    },
+    {
+      "county": "Grant",
+      "fips": "20067",
+      "valid_date": "20230829",
+      "corn_point_count": 263017,
+      "corn_raster_count": 263017,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Grant",
+      "fips": "20067",
+      "valid_date": "20230905",
+      "corn_point_count": 263017,
+      "corn_raster_count": 263017,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Gray",
+      "fips": "20069",
+      "valid_date": "20230829",
+      "corn_point_count": 359728,
+      "corn_raster_count": 359728,
+      "drought_point_count": 135295,
+      "drought_raster_count": 135295
+    },
+    {
+      "county": "Gray",
+      "fips": "20069",
+      "valid_date": "20230905",
+      "corn_point_count": 359728,
+      "corn_raster_count": 359728,
+      "drought_point_count": 71239,
+      "drought_raster_count": 71239
+    },
+    {
+      "county": "Greeley",
+      "fips": "20071",
+      "valid_date": "20230829",
+      "corn_point_count": 195028,
+      "corn_raster_count": 195028,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Greeley",
+      "fips": "20071",
+      "valid_date": "20230905",
+      "corn_point_count": 195028,
+      "corn_raster_count": 195028,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Greenwood",
+      "fips": "20073",
+      "valid_date": "20230829",
+      "corn_point_count": 40345,
+      "corn_raster_count": 40345,
+      "drought_point_count": 40345,
+      "drought_raster_count": 40345
+    },
+    {
+      "county": "Greenwood",
+      "fips": "20073",
+      "valid_date": "20230905",
+      "corn_point_count": 40345,
+      "corn_raster_count": 40345,
+      "drought_point_count": 40345,
+      "drought_raster_count": 40345
+    },
+    {
+      "county": "Hamilton",
+      "fips": "20075",
+      "valid_date": "20230829",
+      "corn_point_count": 141478,
+      "corn_raster_count": 141478,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Hamilton",
+      "fips": "20075",
+      "valid_date": "20230905",
+      "corn_point_count": 141478,
+      "corn_raster_count": 141478,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Harper",
+      "fips": "20077",
+      "valid_date": "20230829",
+      "corn_point_count": 15226,
+      "corn_raster_count": 15226,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Harper",
+      "fips": "20077",
+      "valid_date": "20230905",
+      "corn_point_count": 15226,
+      "corn_raster_count": 15226,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Harvey",
+      "fips": "20079",
+      "valid_date": "20230829",
+      "corn_point_count": 306834,
+      "corn_raster_count": 306834,
+      "drought_point_count": 306834,
+      "drought_raster_count": 306834
+    },
+    {
+      "county": "Harvey",
+      "fips": "20079",
+      "valid_date": "20230905",
+      "corn_point_count": 306834,
+      "corn_raster_count": 306834,
+      "drought_point_count": 306834,
+      "drought_raster_count": 306834
+    },
+    {
+      "county": "Haskell",
+      "fips": "20081",
+      "valid_date": "20230829",
+      "corn_point_count": 398088,
+      "corn_raster_count": 398088,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Haskell",
+      "fips": "20081",
+      "valid_date": "20230905",
+      "corn_point_count": 398088,
+      "corn_raster_count": 398088,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Hodgeman",
+      "fips": "20083",
+      "valid_date": "20230829",
+      "corn_point_count": 79382,
+      "corn_raster_count": 79382,
+      "drought_point_count": 79382,
+      "drought_raster_count": 79382
+    },
+    {
+      "county": "Hodgeman",
+      "fips": "20083",
+      "valid_date": "20230905",
+      "corn_point_count": 79382,
+      "corn_raster_count": 79382,
+      "drought_point_count": 79382,
+      "drought_raster_count": 79382
+    },
+    {
+      "county": "Jackson",
+      "fips": "20085",
+      "valid_date": "20230829",
+      "corn_point_count": 178676,
+      "corn_raster_count": 178676,
+      "drought_point_count": 57374,
+      "drought_raster_count": 57374
+    },
+    {
+      "county": "Jackson",
+      "fips": "20085",
+      "valid_date": "20230905",
+      "corn_point_count": 178676,
+      "corn_raster_count": 178676,
+      "drought_point_count": 144149,
+      "drought_raster_count": 144149
+    },
+    {
+      "county": "Jefferson",
+      "fips": "20087",
+      "valid_date": "20230829",
+      "corn_point_count": 198490,
+      "corn_raster_count": 198490,
+      "drought_point_count": 10073,
+      "drought_raster_count": 10073
+    },
+    {
+      "county": "Jefferson",
+      "fips": "20087",
+      "valid_date": "20230905",
+      "corn_point_count": 198490,
+      "corn_raster_count": 198490,
+      "drought_point_count": 38775,
+      "drought_raster_count": 38775
+    },
+    {
+      "county": "Jewell",
+      "fips": "20089",
+      "valid_date": "20230829",
+      "corn_point_count": 371644,
+      "corn_raster_count": 371644,
+      "drought_point_count": 371644,
+      "drought_raster_count": 371644
+    },
+    {
+      "county": "Jewell",
+      "fips": "20089",
+      "valid_date": "20230905",
+      "corn_point_count": 371644,
+      "corn_raster_count": 371644,
+      "drought_point_count": 371644,
+      "drought_raster_count": 371644
+    },
+    {
+      "county": "Johnson",
+      "fips": "20091",
+      "valid_date": "20230829",
+      "corn_point_count": 37252,
+      "corn_raster_count": 37252,
+      "drought_point_count": 28053,
+      "drought_raster_count": 28053
+    },
+    {
+      "county": "Johnson",
+      "fips": "20091",
+      "valid_date": "20230905",
+      "corn_point_count": 37252,
+      "corn_raster_count": 37252,
+      "drought_point_count": 28304,
+      "drought_raster_count": 28304
+    },
+    {
+      "county": "Kearny",
+      "fips": "20093",
+      "valid_date": "20230829",
+      "corn_point_count": 195938,
+      "corn_raster_count": 195938,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Kearny",
+      "fips": "20093",
+      "valid_date": "20230905",
+      "corn_point_count": 195938,
+      "corn_raster_count": 195938,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Kingman",
+      "fips": "20095",
+      "valid_date": "20230829",
+      "corn_point_count": 44615,
+      "corn_raster_count": 44615,
+      "drought_point_count": 812,
+      "drought_raster_count": 812
+    },
+    {
+      "county": "Kingman",
+      "fips": "20095",
+      "valid_date": "20230905",
+      "corn_point_count": 44615,
+      "corn_raster_count": 44615,
+      "drought_point_count": 2359,
+      "drought_raster_count": 2359
+    },
+    {
+      "county": "Kiowa",
+      "fips": "20097",
+      "valid_date": "20230829",
+      "corn_point_count": 124925,
+      "corn_raster_count": 124925,
+      "drought_point_count": 114921,
+      "drought_raster_count": 114921
+    },
+    {
+      "county": "Kiowa",
+      "fips": "20097",
+      "valid_date": "20230905",
+      "corn_point_count": 124925,
+      "corn_raster_count": 124925,
+      "drought_point_count": 124925,
+      "drought_raster_count": 124925
+    },
+    {
+      "county": "Labette",
+      "fips": "20099",
+      "valid_date": "20230829",
+      "corn_point_count": 168962,
+      "corn_raster_count": 168962,
+      "drought_point_count": 76633,
+      "drought_raster_count": 76633
+    },
+    {
+      "county": "Labette",
+      "fips": "20099",
+      "valid_date": "20230905",
+      "corn_point_count": 168962,
+      "corn_raster_count": 168962,
+      "drought_point_count": 89211,
+      "drought_raster_count": 89211
+    },
+    {
+      "county": "Lane",
+      "fips": "20101",
+      "valid_date": "20230829",
+      "corn_point_count": 149643,
+      "corn_raster_count": 149643,
+      "drought_point_count": 148602,
+      "drought_raster_count": 148602
+    },
+    {
+      "county": "Lane",
+      "fips": "20101",
+      "valid_date": "20230905",
+      "corn_point_count": 149643,
+      "corn_raster_count": 149643,
+      "drought_point_count": 149477,
+      "drought_raster_count": 149477
+    },
+    {
+      "county": "Leavenworth",
+      "fips": "20103",
+      "valid_date": "20230829",
+      "corn_point_count": 90541,
+      "corn_raster_count": 90541,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Leavenworth",
+      "fips": "20103",
+      "valid_date": "20230905",
+      "corn_point_count": 90541,
+      "corn_raster_count": 90541,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Lincoln",
+      "fips": "20105",
+      "valid_date": "20230829",
+      "corn_point_count": 28628,
+      "corn_raster_count": 28628,
+      "drought_point_count": 25986,
+      "drought_raster_count": 25986
+    },
+    {
+      "county": "Lincoln",
+      "fips": "20105",
+      "valid_date": "20230905",
+      "corn_point_count": 28628,
+      "corn_raster_count": 28628,
+      "drought_point_count": 25774,
+      "drought_raster_count": 25774
+    },
+    {
+      "county": "Linn",
+      "fips": "20107",
+      "valid_date": "20230829",
+      "corn_point_count": 86401,
+      "corn_raster_count": 86401,
+      "drought_point_count": 86401,
+      "drought_raster_count": 86401
+    },
+    {
+      "county": "Linn",
+      "fips": "20107",
+      "valid_date": "20230905",
+      "corn_point_count": 86401,
+      "corn_raster_count": 86401,
+      "drought_point_count": 86401,
+      "drought_raster_count": 86401
+    },
+    {
+      "county": "Logan",
+      "fips": "20109",
+      "valid_date": "20230829",
+      "corn_point_count": 521119,
+      "corn_raster_count": 521119,
+      "drought_point_count": 916,
+      "drought_raster_count": 916
+    },
+    {
+      "county": "Logan",
+      "fips": "20109",
+      "valid_date": "20230905",
+      "corn_point_count": 521119,
+      "corn_raster_count": 521119,
+      "drought_point_count": 578,
+      "drought_raster_count": 578
+    },
+    {
+      "county": "Lyon",
+      "fips": "20111",
+      "valid_date": "20230829",
+      "corn_point_count": 100986,
+      "corn_raster_count": 100986,
+      "drought_point_count": 100986,
+      "drought_raster_count": 100986
+    },
+    {
+      "county": "Lyon",
+      "fips": "20111",
+      "valid_date": "20230905",
+      "corn_point_count": 100986,
+      "corn_raster_count": 100986,
+      "drought_point_count": 100986,
+      "drought_raster_count": 100986
+    },
+    {
+      "county": "McPherson",
+      "fips": "20113",
+      "valid_date": "20230829",
+      "corn_point_count": 220881,
+      "corn_raster_count": 220881,
+      "drought_point_count": 220881,
+      "drought_raster_count": 220881
+    },
+    {
+      "county": "McPherson",
+      "fips": "20113",
+      "valid_date": "20230905",
+      "corn_point_count": 220881,
+      "corn_raster_count": 220881,
+      "drought_point_count": 220881,
+      "drought_raster_count": 220881
+    },
+    {
+      "county": "Marion",
+      "fips": "20115",
+      "valid_date": "20230829",
+      "corn_point_count": 297568,
+      "corn_raster_count": 297568,
+      "drought_point_count": 297568,
+      "drought_raster_count": 297568
+    },
+    {
+      "county": "Marion",
+      "fips": "20115",
+      "valid_date": "20230905",
+      "corn_point_count": 297568,
+      "corn_raster_count": 297568,
+      "drought_point_count": 297568,
+      "drought_raster_count": 297568
+    },
+    {
+      "county": "Marshall",
+      "fips": "20117",
+      "valid_date": "20230829",
+      "corn_point_count": 649484,
+      "corn_raster_count": 649484,
+      "drought_point_count": 513984,
+      "drought_raster_count": 513984
+    },
+    {
+      "county": "Marshall",
+      "fips": "20117",
+      "valid_date": "20230905",
+      "corn_point_count": 649484,
+      "corn_raster_count": 649484,
+      "drought_point_count": 536236,
+      "drought_raster_count": 536236
+    },
+    {
+      "county": "Meade",
+      "fips": "20119",
+      "valid_date": "20230829",
+      "corn_point_count": 358997,
+      "corn_raster_count": 358997,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Meade",
+      "fips": "20119",
+      "valid_date": "20230905",
+      "corn_point_count": 358997,
+      "corn_raster_count": 358997,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Miami",
+      "fips": "20121",
+      "valid_date": "20230829",
+      "corn_point_count": 66410,
+      "corn_raster_count": 66410,
+      "drought_point_count": 66410,
+      "drought_raster_count": 66410
+    },
+    {
+      "county": "Miami",
+      "fips": "20121",
+      "valid_date": "20230905",
+      "corn_point_count": 66410,
+      "corn_raster_count": 66410,
+      "drought_point_count": 66410,
+      "drought_raster_count": 66410
+    },
+    {
+      "county": "Mitchell",
+      "fips": "20123",
+      "valid_date": "20230829",
+      "corn_point_count": 145084,
+      "corn_raster_count": 145084,
+      "drought_point_count": 145084,
+      "drought_raster_count": 145084
+    },
+    {
+      "county": "Mitchell",
+      "fips": "20123",
+      "valid_date": "20230905",
+      "corn_point_count": 145084,
+      "corn_raster_count": 145084,
+      "drought_point_count": 145084,
+      "drought_raster_count": 145084
+    },
+    {
+      "county": "Montgomery",
+      "fips": "20125",
+      "valid_date": "20230829",
+      "corn_point_count": 122640,
+      "corn_raster_count": 122640,
+      "drought_point_count": 122640,
+      "drought_raster_count": 122640
+    },
+    {
+      "county": "Montgomery",
+      "fips": "20125",
+      "valid_date": "20230905",
+      "corn_point_count": 122640,
+      "corn_raster_count": 122640,
+      "drought_point_count": 122640,
+      "drought_raster_count": 122640
+    },
+    {
+      "county": "Morris",
+      "fips": "20127",
+      "valid_date": "20230829",
+      "corn_point_count": 89445,
+      "corn_raster_count": 89445,
+      "drought_point_count": 89445,
+      "drought_raster_count": 89445
+    },
+    {
+      "county": "Morris",
+      "fips": "20127",
+      "valid_date": "20230905",
+      "corn_point_count": 89445,
+      "corn_raster_count": 89445,
+      "drought_point_count": 89445,
+      "drought_raster_count": 89445
+    },
+    {
+      "county": "Morton",
+      "fips": "20129",
+      "valid_date": "20230829",
+      "corn_point_count": 137245,
+      "corn_raster_count": 137245,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Morton",
+      "fips": "20129",
+      "valid_date": "20230905",
+      "corn_point_count": 137245,
+      "corn_raster_count": 137245,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Nemaha",
+      "fips": "20131",
+      "valid_date": "20230829",
+      "corn_point_count": 545557,
+      "corn_raster_count": 545557,
+      "drought_point_count": 34643,
+      "drought_raster_count": 34643
+    },
+    {
+      "county": "Nemaha",
+      "fips": "20131",
+      "valid_date": "20230905",
+      "corn_point_count": 545557,
+      "corn_raster_count": 545557,
+      "drought_point_count": 92534,
+      "drought_raster_count": 92534
+    },
+    {
+      "county": "Neosho",
+      "fips": "20133",
+      "valid_date": "20230829",
+      "corn_point_count": 141500,
+      "corn_raster_count": 141500,
+      "drought_point_count": 54710,
+      "drought_raster_count": 54710
+    },
+    {
+      "county": "Neosho",
+      "fips": "20133",
+      "valid_date": "20230905",
+      "corn_point_count": 141500,
+      "corn_raster_count": 141500,
+      "drought_point_count": 96855,
+      "drought_raster_count": 96855
+    },
+    {
+      "county": "Ness",
+      "fips": "20135",
+      "valid_date": "20230829",
+      "corn_point_count": 91884,
+      "corn_raster_count": 91884,
+      "drought_point_count": 91884,
+      "drought_raster_count": 91884
+    },
+    {
+      "county": "Ness",
+      "fips": "20135",
+      "valid_date": "20230905",
+      "corn_point_count": 91884,
+      "corn_raster_count": 91884,
+      "drought_point_count": 91884,
+      "drought_raster_count": 91884
+    },
+    {
+      "county": "Norton",
+      "fips": "20137",
+      "valid_date": "20230829",
+      "corn_point_count": 532685,
+      "corn_raster_count": 532685,
+      "drought_point_count": 532685,
+      "drought_raster_count": 532685
+    },
+    {
+      "county": "Norton",
+      "fips": "20137",
+      "valid_date": "20230905",
+      "corn_point_count": 532685,
+      "corn_raster_count": 532685,
+      "drought_point_count": 532685,
+      "drought_raster_count": 532685
+    },
+    {
+      "county": "Osage",
+      "fips": "20139",
+      "valid_date": "20230829",
+      "corn_point_count": 118726,
+      "corn_raster_count": 118726,
+      "drought_point_count": 118726,
+      "drought_raster_count": 118726
+    },
+    {
+      "county": "Osage",
+      "fips": "20139",
+      "valid_date": "20230905",
+      "corn_point_count": 118726,
+      "corn_raster_count": 118726,
+      "drought_point_count": 118726,
+      "drought_raster_count": 118726
+    },
+    {
+      "county": "Osborne",
+      "fips": "20141",
+      "valid_date": "20230829",
+      "corn_point_count": 142146,
+      "corn_raster_count": 142146,
+      "drought_point_count": 142146,
+      "drought_raster_count": 142146
+    },
+    {
+      "county": "Osborne",
+      "fips": "20141",
+      "valid_date": "20230905",
+      "corn_point_count": 142146,
+      "corn_raster_count": 142146,
+      "drought_point_count": 142146,
+      "drought_raster_count": 142146
+    },
+    {
+      "county": "Ottawa",
+      "fips": "20143",
+      "valid_date": "20230829",
+      "corn_point_count": 82085,
+      "corn_raster_count": 82085,
+      "drought_point_count": 38474,
+      "drought_raster_count": 38474
+    },
+    {
+      "county": "Ottawa",
+      "fips": "20143",
+      "valid_date": "20230905",
+      "corn_point_count": 82085,
+      "corn_raster_count": 82085,
+      "drought_point_count": 36409,
+      "drought_raster_count": 36409
+    },
+    {
+      "county": "Pawnee",
+      "fips": "20145",
+      "valid_date": "20230829",
+      "corn_point_count": 238022,
+      "corn_raster_count": 238022,
+      "drought_point_count": 238022,
+      "drought_raster_count": 238022
+    },
+    {
+      "county": "Pawnee",
+      "fips": "20145",
+      "valid_date": "20230905",
+      "corn_point_count": 238022,
+      "corn_raster_count": 238022,
+      "drought_point_count": 238022,
+      "drought_raster_count": 238022
+    },
+    {
+      "county": "Phillips",
+      "fips": "20147",
+      "valid_date": "20230829",
+      "corn_point_count": 354510,
+      "corn_raster_count": 354510,
+      "drought_point_count": 317800,
+      "drought_raster_count": 317800
+    },
+    {
+      "county": "Phillips",
+      "fips": "20147",
+      "valid_date": "20230905",
+      "corn_point_count": 354510,
+      "corn_raster_count": 354510,
+      "drought_point_count": 320151,
+      "drought_raster_count": 320151
+    },
+    {
+      "county": "Pottawatomie",
+      "fips": "20149",
+      "valid_date": "20230829",
+      "corn_point_count": 176429,
+      "corn_raster_count": 176429,
+      "drought_point_count": 92864,
+      "drought_raster_count": 92864
+    },
+    {
+      "county": "Pottawatomie",
+      "fips": "20149",
+      "valid_date": "20230905",
+      "corn_point_count": 176429,
+      "corn_raster_count": 176429,
+      "drought_point_count": 176429,
+      "drought_raster_count": 176429
+    },
+    {
+      "county": "Pratt",
+      "fips": "20151",
+      "valid_date": "20230829",
+      "corn_point_count": 261054,
+      "corn_raster_count": 261054,
+      "drought_point_count": 190007,
+      "drought_raster_count": 190007
+    },
+    {
+      "county": "Pratt",
+      "fips": "20151",
+      "valid_date": "20230905",
+      "corn_point_count": 261054,
+      "corn_raster_count": 261054,
+      "drought_point_count": 228164,
+      "drought_raster_count": 228164
+    },
+    {
+      "county": "Rawlins",
+      "fips": "20153",
+      "valid_date": "20230829",
+      "corn_point_count": 514724,
+      "corn_raster_count": 514724,
+      "drought_point_count": 333712,
+      "drought_raster_count": 333712
+    },
+    {
+      "county": "Rawlins",
+      "fips": "20153",
+      "valid_date": "20230905",
+      "corn_point_count": 514724,
+      "corn_raster_count": 514724,
+      "drought_point_count": 344750,
+      "drought_raster_count": 344750
+    },
+    {
+      "county": "Reno",
+      "fips": "20155",
+      "valid_date": "20230829",
+      "corn_point_count": 210681,
+      "corn_raster_count": 210681,
+      "drought_point_count": 202635,
+      "drought_raster_count": 202635
+    },
+    {
+      "county": "Reno",
+      "fips": "20155",
+      "valid_date": "20230905",
+      "corn_point_count": 210681,
+      "corn_raster_count": 210681,
+      "drought_point_count": 200905,
+      "drought_raster_count": 200905
+    },
+    {
+      "county": "Republic",
+      "fips": "20157",
+      "valid_date": "20230829",
+      "corn_point_count": 555563,
+      "corn_raster_count": 555563,
+      "drought_point_count": 555563,
+      "drought_raster_count": 555563
+    },
+    {
+      "county": "Republic",
+      "fips": "20157",
+      "valid_date": "20230905",
+      "corn_point_count": 555563,
+      "corn_raster_count": 555563,
+      "drought_point_count": 555563,
+      "drought_raster_count": 555563
+    },
+    {
+      "county": "Rice",
+      "fips": "20159",
+      "valid_date": "20230829",
+      "corn_point_count": 155984,
+      "corn_raster_count": 155984,
+      "drought_point_count": 155984,
+      "drought_raster_count": 155984
+    },
+    {
+      "county": "Rice",
+      "fips": "20159",
+      "valid_date": "20230905",
+      "corn_point_count": 155984,
+      "corn_raster_count": 155984,
+      "drought_point_count": 155984,
+      "drought_raster_count": 155984
+    },
+    {
+      "county": "Riley",
+      "fips": "20161",
+      "valid_date": "20230829",
+      "corn_point_count": 115862,
+      "corn_raster_count": 115862,
+      "drought_point_count": 115857,
+      "drought_raster_count": 115857
+    },
+    {
+      "county": "Riley",
+      "fips": "20161",
+      "valid_date": "20230905",
+      "corn_point_count": 115862,
+      "corn_raster_count": 115862,
+      "drought_point_count": 115862,
+      "drought_raster_count": 115862
+    },
+    {
+      "county": "Rooks",
+      "fips": "20163",
+      "valid_date": "20230829",
+      "corn_point_count": 144472,
+      "corn_raster_count": 144472,
+      "drought_point_count": 144472,
+      "drought_raster_count": 144472
+    },
+    {
+      "county": "Rooks",
+      "fips": "20163",
+      "valid_date": "20230905",
+      "corn_point_count": 144472,
+      "corn_raster_count": 144472,
+      "drought_point_count": 144472,
+      "drought_raster_count": 144472
+    },
+    {
+      "county": "Rush",
+      "fips": "20165",
+      "valid_date": "20230829",
+      "corn_point_count": 78286,
+      "corn_raster_count": 78286,
+      "drought_point_count": 78286,
+      "drought_raster_count": 78286
+    },
+    {
+      "county": "Rush",
+      "fips": "20165",
+      "valid_date": "20230905",
+      "corn_point_count": 78286,
+      "corn_raster_count": 78286,
+      "drought_point_count": 78286,
+      "drought_raster_count": 78286
+    },
+    {
+      "county": "Russell",
+      "fips": "20167",
+      "valid_date": "20230829",
+      "corn_point_count": 30589,
+      "corn_raster_count": 30589,
+      "drought_point_count": 30589,
+      "drought_raster_count": 30589
+    },
+    {
+      "county": "Russell",
+      "fips": "20167",
+      "valid_date": "20230905",
+      "corn_point_count": 30589,
+      "corn_raster_count": 30589,
+      "drought_point_count": 30589,
+      "drought_raster_count": 30589
+    },
+    {
+      "county": "Saline",
+      "fips": "20169",
+      "valid_date": "20230829",
+      "corn_point_count": 46584,
+      "corn_raster_count": 46584,
+      "drought_point_count": 44577,
+      "drought_raster_count": 44577
+    },
+    {
+      "county": "Saline",
+      "fips": "20169",
+      "valid_date": "20230905",
+      "corn_point_count": 46584,
+      "corn_raster_count": 46584,
+      "drought_point_count": 45182,
+      "drought_raster_count": 45182
+    },
+    {
+      "county": "Scott",
+      "fips": "20171",
+      "valid_date": "20230829",
+      "corn_point_count": 369787,
+      "corn_raster_count": 369787,
+      "drought_point_count": 154706,
+      "drought_raster_count": 154706
+    },
+    {
+      "county": "Scott",
+      "fips": "20171",
+      "valid_date": "20230905",
+      "corn_point_count": 369787,
+      "corn_raster_count": 369787,
+      "drought_point_count": 157192,
+      "drought_raster_count": 157192
+    },
+    {
+      "county": "Sedgwick",
+      "fips": "20173",
+      "valid_date": "20230829",
+      "corn_point_count": 237350,
+      "corn_raster_count": 237350,
+      "drought_point_count": 232625,
+      "drought_raster_count": 232625
+    },
+    {
+      "county": "Sedgwick",
+      "fips": "20173",
+      "valid_date": "20230905",
+      "corn_point_count": 237350,
+      "corn_raster_count": 237350,
+      "drought_point_count": 232597,
+      "drought_raster_count": 232597
+    },
+    {
+      "county": "Seward",
+      "fips": "20175",
+      "valid_date": "20230829",
+      "corn_point_count": 312423,
+      "corn_raster_count": 312423,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Seward",
+      "fips": "20175",
+      "valid_date": "20230905",
+      "corn_point_count": 312423,
+      "corn_raster_count": 312423,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Shawnee",
+      "fips": "20177",
+      "valid_date": "20230829",
+      "corn_point_count": 145110,
+      "corn_raster_count": 145110,
+      "drought_point_count": 45587,
+      "drought_raster_count": 45587
+    },
+    {
+      "county": "Shawnee",
+      "fips": "20177",
+      "valid_date": "20230905",
+      "corn_point_count": 145110,
+      "corn_raster_count": 145110,
+      "drought_point_count": 145110,
+      "drought_raster_count": 145110
+    },
+    {
+      "county": "Sheridan",
+      "fips": "20179",
+      "valid_date": "20230829",
+      "corn_point_count": 777090,
+      "corn_raster_count": 777090,
+      "drought_point_count": 777090,
+      "drought_raster_count": 777090
+    },
+    {
+      "county": "Sheridan",
+      "fips": "20179",
+      "valid_date": "20230905",
+      "corn_point_count": 777090,
+      "corn_raster_count": 777090,
+      "drought_point_count": 777090,
+      "drought_raster_count": 777090
+    },
+    {
+      "county": "Sherman",
+      "fips": "20181",
+      "valid_date": "20230829",
+      "corn_point_count": 935787,
+      "corn_raster_count": 935787,
+      "drought_point_count": 80214,
+      "drought_raster_count": 80214
+    },
+    {
+      "county": "Sherman",
+      "fips": "20181",
+      "valid_date": "20230905",
+      "corn_point_count": 935787,
+      "corn_raster_count": 935787,
+      "drought_point_count": 73402,
+      "drought_raster_count": 73402
+    },
+    {
+      "county": "Smith",
+      "fips": "20183",
+      "valid_date": "20230829",
+      "corn_point_count": 419430,
+      "corn_raster_count": 419430,
+      "drought_point_count": 419430,
+      "drought_raster_count": 419430
+    },
+    {
+      "county": "Smith",
+      "fips": "20183",
+      "valid_date": "20230905",
+      "corn_point_count": 419430,
+      "corn_raster_count": 419430,
+      "drought_point_count": 419430,
+      "drought_raster_count": 419430
+    },
+    {
+      "county": "Stafford",
+      "fips": "20185",
+      "valid_date": "20230829",
+      "corn_point_count": 229050,
+      "corn_raster_count": 229050,
+      "drought_point_count": 229050,
+      "drought_raster_count": 229050
+    },
+    {
+      "county": "Stafford",
+      "fips": "20185",
+      "valid_date": "20230905",
+      "corn_point_count": 229050,
+      "corn_raster_count": 229050,
+      "drought_point_count": 229050,
+      "drought_raster_count": 229050
+    },
+    {
+      "county": "Stanton",
+      "fips": "20187",
+      "valid_date": "20230829",
+      "corn_point_count": 435218,
+      "corn_raster_count": 435218,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Stanton",
+      "fips": "20187",
+      "valid_date": "20230905",
+      "corn_point_count": 435218,
+      "corn_raster_count": 435218,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Stevens",
+      "fips": "20189",
+      "valid_date": "20230829",
+      "corn_point_count": 554654,
+      "corn_raster_count": 554654,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Stevens",
+      "fips": "20189",
+      "valid_date": "20230905",
+      "corn_point_count": 554654,
+      "corn_raster_count": 554654,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Sumner",
+      "fips": "20191",
+      "valid_date": "20230829",
+      "corn_point_count": 191550,
+      "corn_raster_count": 191550,
+      "drought_point_count": 157492,
+      "drought_raster_count": 157492
+    },
+    {
+      "county": "Sumner",
+      "fips": "20191",
+      "valid_date": "20230905",
+      "corn_point_count": 191550,
+      "corn_raster_count": 191550,
+      "drought_point_count": 157659,
+      "drought_raster_count": 157659
+    },
+    {
+      "county": "Thomas",
+      "fips": "20193",
+      "valid_date": "20230829",
+      "corn_point_count": 1209196,
+      "corn_raster_count": 1209196,
+      "drought_point_count": 728043,
+      "drought_raster_count": 728043
+    },
+    {
+      "county": "Thomas",
+      "fips": "20193",
+      "valid_date": "20230905",
+      "corn_point_count": 1209196,
+      "corn_raster_count": 1209196,
+      "drought_point_count": 714422,
+      "drought_raster_count": 714422
+    },
+    {
+      "county": "Trego",
+      "fips": "20195",
+      "valid_date": "20230829",
+      "corn_point_count": 141511,
+      "corn_raster_count": 141511,
+      "drought_point_count": 141511,
+      "drought_raster_count": 141511
+    },
+    {
+      "county": "Trego",
+      "fips": "20195",
+      "valid_date": "20230905",
+      "corn_point_count": 141511,
+      "corn_raster_count": 141511,
+      "drought_point_count": 141511,
+      "drought_raster_count": 141511
+    },
+    {
+      "county": "Wabaunsee",
+      "fips": "20197",
+      "valid_date": "20230829",
+      "corn_point_count": 105021,
+      "corn_raster_count": 105021,
+      "drought_point_count": 93512,
+      "drought_raster_count": 93512
+    },
+    {
+      "county": "Wabaunsee",
+      "fips": "20197",
+      "valid_date": "20230905",
+      "corn_point_count": 105021,
+      "corn_raster_count": 105021,
+      "drought_point_count": 105021,
+      "drought_raster_count": 105021
+    },
+    {
+      "county": "Wallace",
+      "fips": "20199",
+      "valid_date": "20230829",
+      "corn_point_count": 462647,
+      "corn_raster_count": 462647,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Wallace",
+      "fips": "20199",
+      "valid_date": "20230905",
+      "corn_point_count": 462647,
+      "corn_raster_count": 462647,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Washington",
+      "fips": "20201",
+      "valid_date": "20230829",
+      "corn_point_count": 492220,
+      "corn_raster_count": 492220,
+      "drought_point_count": 492220,
+      "drought_raster_count": 492220
+    },
+    {
+      "county": "Washington",
+      "fips": "20201",
+      "valid_date": "20230905",
+      "corn_point_count": 492220,
+      "corn_raster_count": 492220,
+      "drought_point_count": 492220,
+      "drought_raster_count": 492220
+    },
+    {
+      "county": "Wichita",
+      "fips": "20203",
+      "valid_date": "20230829",
+      "corn_point_count": 394187,
+      "corn_raster_count": 394187,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Wichita",
+      "fips": "20203",
+      "valid_date": "20230905",
+      "corn_point_count": 394187,
+      "corn_raster_count": 394187,
+      "drought_point_count": 0,
+      "drought_raster_count": 0
+    },
+    {
+      "county": "Wilson",
+      "fips": "20205",
+      "valid_date": "20230829",
+      "corn_point_count": 190111,
+      "corn_raster_count": 190111,
+      "drought_point_count": 186846,
+      "drought_raster_count": 186846
+    },
+    {
+      "county": "Wilson",
+      "fips": "20205",
+      "valid_date": "20230905",
+      "corn_point_count": 190111,
+      "corn_raster_count": 190111,
+      "drought_point_count": 190111,
+      "drought_raster_count": 190111
+    },
+    {
+      "county": "Woodson",
+      "fips": "20207",
+      "valid_date": "20230829",
+      "corn_point_count": 88856,
+      "corn_raster_count": 88856,
+      "drought_point_count": 88856,
+      "drought_raster_count": 88856
+    },
+    {
+      "county": "Woodson",
+      "fips": "20207",
+      "valid_date": "20230905",
+      "corn_point_count": 88856,
+      "corn_raster_count": 88856,
+      "drought_point_count": 88856,
+      "drought_raster_count": 88856
+    },
+    {
+      "county": "Wyandotte",
+      "fips": "20209",
+      "valid_date": "20230829",
+      "corn_point_count": 5421,
+      "corn_raster_count": 5421,
+      "drought_point_count": 14,
+      "drought_raster_count": 14
+    },
+    {
+      "county": "Wyandotte",
+      "fips": "20209",
+      "valid_date": "20230905",
+      "corn_point_count": 5421,
+      "corn_raster_count": 5421,
+      "drought_point_count": 15,
+      "drought_raster_count": 15
+    }
+  ]
+}

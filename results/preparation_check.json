@@ -1,0 +1,26 @@
+[
+  {
+    "state": "IA",
+    "crop_year": 2021,
+    "counties": 99,
+    "corn_pixels": 57676053,
+    "unassigned_corn_pixels": 182,
+    "bundle_equal": true
+  },
+  {
+    "state": "NE",
+    "crop_year": 2022,
+    "counties": 93,
+    "corn_pixels": 45156647,
+    "unassigned_corn_pixels": 1356,
+    "bundle_equal": true
+  },
+  {
+    "state": "KS",
+    "crop_year": 2022,
+    "counties": 105,
+    "corn_pixels": 24982864,
+    "unassigned_corn_pixels": 142,
+    "bundle_equal": true
+  }
+]
