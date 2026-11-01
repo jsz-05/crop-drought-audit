@@ -1,0 +1,852 @@
+{
+  "state": "KS",
+  "before": "20230829",
+  "after": "20230905",
+  "weekly_change_pp": {
+    "pixel": 1.9728082416811779,
+    "centroid": -3.036097062370431,
+    "area": 2.067805062633454
+  },
+  "county_contributions": [
+    {
+      "fips": "20055",
+      "county": "Finney",
+      "pixel": -0.26388887999390304,
+      "centroid": -2.193543542485761,
+      "area": -0.26352405795259043,
+      "difference": -1.9296546624918582
+    },
+    {
+      "fips": "20069",
+      "county": "Gray",
+      "pixel": -0.2563997466423385,
+      "centroid": -1.4398989643461213,
+      "area": -0.3355547955226987,
+      "difference": -1.1834992177037829
+    },
+    {
+      "fips": "20177",
+      "county": "Shawnee",
+      "pixel": 0.39836505534353467,
+      "centroid": 0.0,
+      "area": 0.2415015253909438,
+      "difference": -0.39836505534353467
+    },
+    {
+      "fips": "20133",
+      "county": "Neosho",
+      "pixel": 0.16869563073312974,
+      "centroid": 0.5663882251450434,
+      "area": 0.12127397305774526,
+      "difference": 0.3976925944119136
+    },
+    {
+      "fips": "20085",
+      "county": "Jackson",
+      "pixel": 0.3473380794131529,
+      "centroid": 0.0,
+      "area": 0.2972063310607775,
+      "difference": -0.3473380794131529
+    },
+    {
+      "fips": "20149",
+      "county": "Pottawatomie",
+      "pixel": 0.3344892723268237,
+      "centroid": 0.0,
+      "area": 0.2915655107509703,
+      "difference": -0.3344892723268237
+    },
+    {
+      "fips": "20131",
+      "county": "Nemaha",
+      "pixel": 0.23172283209803332,
+      "centroid": 0.0,
+      "area": 0.3592178165131075,
+      "difference": -0.23172283209803332
+    },
+    {
+      "fips": "20151",
+      "county": "Pratt",
+      "pixel": 0.15273268909441284,
+      "centroid": 0.0,
+      "area": 0.21322981755422263,
+      "difference": -0.15273268909441284
+    },
+    {
+      "fips": "20045",
+      "county": "Douglas",
+      "pixel": 0.15150384679674833,
+      "centroid": 0.0,
+      "area": 0.16707576375544939,
+      "difference": -0.15150384679674833
+    },
+    {
+      "fips": "20087",
+      "county": "Jefferson",
+      "pixel": 0.1148867479725303,
+      "centroid": 0.0,
+      "area": 0.11625674148656441,
+      "difference": -0.1148867479725303
+    },
+    {
+      "fips": "20063",
+      "county": "Gove",
+      "pixel": 0.10584855283205326,
+      "centroid": 0.0,
+      "area": 0.12631893864412164,
+      "difference": -0.10584855283205326
+    },
+    {
+      "fips": "20117",
+      "county": "Marshall",
+      "pixel": 0.08906905149065375,
+      "centroid": 0.0,
+      "area": 0.1714844238930145,
+      "difference": -0.08906905149065375
+    },
+    {
+      "fips": "20057",
+      "county": "Ford",
+      "pixel": 0.08656333397163751,
+      "centroid": 0.0,
+      "area": 0.0909555079614918,
+      "difference": -0.08656333397163751
+    },
+    {
+      "fips": "20193",
+      "county": "Thomas",
+      "pixel": -0.05452137112862645,
+      "centroid": 0.0,
+      "area": -0.058730158453287204,
+      "difference": 0.05452137112862645
+    },
+    {
+      "fips": "20099",
+      "county": "Labette",
+      "pixel": 0.05034650951147956,
+      "centroid": 0.0,
+      "area": 0.02500871936271898,
+      "difference": -0.05034650951147956
+    },
+    {
+      "fips": "20005",
+      "county": "Atchison",
+      "pixel": 0.048429195307631664,
+      "centroid": 0.0,
+      "area": 0.03774899629015693,
+      "difference": -0.048429195307631664
+    },
+    {
+      "fips": "20027",
+      "county": "Clay",
+      "pixel": 0.04752057250121526,
+      "centroid": 0.0,
+      "area": 0.0999622162783041,
+      "difference": -0.04752057250121526
+    },
+    {
+      "fips": "20197",
+      "county": "Wabaunsee",
+      "pixel": 0.04606757655967706,
+      "centroid": 0.0,
+      "area": 0.009720167134215791,
+      "difference": -0.04606757655967706
+    },
+    {
+      "fips": "20153",
+      "county": "Rawlins",
+      "pixel": 0.04418228430495394,
+      "centroid": 0.0,
+      "area": 0.03390928502582455,
+      "difference": -0.04418228430495394
+    },
+    {
+      "fips": "20097",
+      "county": "Kiowa",
+      "pixel": 0.04004344738057254,
+      "centroid": 0.0,
+      "area": 0.23662790734231856,
+      "difference": -0.04004344738057254
+    },
+    {
+      "fips": "20181",
+      "county": "Sherman",
+      "pixel": -0.027266689679774116,
+      "centroid": 0.0,
+      "area": -0.025189181203376272,
+      "difference": 0.027266689679774116
+    },
+    {
+      "fips": "20025",
+      "county": "Clark",
+      "pixel": 0.025757655327267523,
+      "centroid": 0.0,
+      "area": 0.011452008248320406,
+      "difference": -0.025757655327267523
+    },
+    {
+      "fips": "20041",
+      "county": "Dickinson",
+      "pixel": 0.022975748497049843,
+      "centroid": 0.0,
+      "area": 0.01867746280190696,
+      "difference": -0.022975748497049843
+    },
+    {
+      "fips": "20033",
+      "county": "Comanche",
+      "pixel": 0.012184351641989484,
+      "centroid": 0.030957219316408238,
+      "area": 0.009260444878924723,
+      "difference": 0.018772867674418756
+    },
+    {
+      "fips": "20059",
+      "county": "Franklin",
+      "pixel": 0.015062324319581617,
+      "centroid": 0.0,
+      "area": 0.013149224701269014,
+      "difference": -0.015062324319581617
+    },
+    {
+      "fips": "20023",
+      "county": "Cheyenne",
+      "pixel": 0.014401871618882432,
+      "centroid": 0.0,
+      "area": 0.010708974979548305,
+      "difference": -0.014401871618882432
+    },
+    {
+      "fips": "20205",
+      "county": "Wilson",
+      "pixel": 0.013068957986562282,
+      "centroid": 0.0,
+      "area": 0.0118809259041303,
+      "difference": -0.013068957986562282
+    },
+    {
+      "fips": "20021",
+      "county": "Cherokee",
+      "pixel": -0.011499882479446718,
+      "centroid": 0.0,
+      "area": -0.005890748150794668,
+      "difference": 0.011499882479446718
+    },
+    {
+      "fips": "20037",
+      "county": "Crawford",
+      "pixel": -0.010451163645609192,
+      "centroid": 0.0,
+      "area": -0.009168423829523596,
+      "difference": 0.010451163645609192
+    },
+    {
+      "fips": "20171",
+      "county": "Scott",
+      "pixel": 0.0099508206905341,
+      "centroid": 0.0,
+      "area": 0.013411078242797369,
+      "difference": -0.0099508206905341
+    },
+    {
+      "fips": "20147",
+      "county": "Phillips",
+      "pixel": 0.009410450299052953,
+      "centroid": 0.0,
+      "area": 0.009056273875963378,
+      "difference": -0.009410450299052953
+    },
+    {
+      "fips": "20143",
+      "county": "Ottawa",
+      "pixel": -0.008265665617841107,
+      "centroid": 0.0,
+      "area": -0.00018302718780547307,
+      "difference": 0.008265665617841107
+    },
+    {
+      "fips": "20061",
+      "county": "Geary",
+      "pixel": 0.008145583308623056,
+      "centroid": 0.0,
+      "area": 0.009471917450940366,
+      "difference": -0.008145583308623056
+    },
+    {
+      "fips": "20007",
+      "county": "Barber",
+      "pixel": 0.007713286995438153,
+      "centroid": 0.0,
+      "area": 0.004923103724798409,
+      "difference": -0.007713286995438153
+    },
+    {
+      "fips": "20155",
+      "county": "Reno",
+      "pixel": -0.006924746498239753,
+      "centroid": 0.0,
+      "area": -0.008819990731532092,
+      "difference": 0.006924746498239753
+    },
+    {
+      "fips": "20095",
+      "county": "Kingman",
+      "pixel": 0.006192244412009767,
+      "centroid": 0.0,
+      "area": 0.0017771010844858564,
+      "difference": -0.006192244412009767
+    },
+    {
+      "fips": "20039",
+      "county": "Decatur",
+      "pixel": 0.004050776564288234,
+      "centroid": 0.0,
+      "area": 0.006155812600941723,
+      "difference": -0.004050776564288234
+    },
+    {
+      "fips": "20101",
+      "county": "Lane",
+      "pixel": 0.003502400685525882,
+      "centroid": 0.0,
+      "area": 0.015542884374809572,
+      "difference": -0.003502400685525882
+    },
+    {
+      "fips": "20169",
+      "county": "Saline",
+      "pixel": 0.0024216599025636025,
+      "centroid": 0.0,
+      "area": 0.0023653179909120183,
+      "difference": -0.0024216599025636025
+    },
+    {
+      "fips": "20109",
+      "county": "Logan",
+      "pixel": -0.0013529273505231427,
+      "centroid": 0.0,
+      "area": -0.0028514852961775794,
+      "difference": 0.0013529273505231427
+    },
+    {
+      "fips": "20091",
+      "county": "Johnson",
+      "pixel": 0.0010046886537908657,
+      "centroid": 0.0,
+      "area": 0.0032896182581079593,
+      "difference": -0.0010046886537908657
+    },
+    {
+      "fips": "20105",
+      "county": "Lincoln",
+      "pixel": -0.0008485816518074155,
+      "centroid": 0.0,
+      "area": -1.2401334927367389e-05,
+      "difference": 0.0008485816518074155
+    },
+    {
+      "fips": "20191",
+      "county": "Sumner",
+      "pixel": 0.0006684581879803973,
+      "centroid": 0.0,
+      "area": -0.002291173305368683,
+      "difference": -0.0006684581879803973
+    },
+    {
+      "fips": "20173",
+      "county": "Sedgwick",
+      "pixel": -0.00011207682193680829,
+      "centroid": 0.0,
+      "area": -0.001290711261334951,
+      "difference": 0.00011207682193680829
+    },
+    {
+      "fips": "20161",
+      "county": "Riley",
+      "pixel": 2.001371820298507e-05,
+      "centroid": 0.0,
+      "area": 0.0009716907747576391,
+      "difference": -2.001371820298507e-05
+    },
+    {
+      "fips": "20209",
+      "county": "Wyandotte",
+      "pixel": 4.002743640601013e-06,
+      "centroid": 0.0,
+      "area": 0.00015373546830917554,
+      "difference": -4.002743640601013e-06
+    },
+    {
+      "fips": "20001",
+      "county": "Allen",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20003",
+      "county": "Anderson",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20009",
+      "county": "Barton",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20011",
+      "county": "Bourbon",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20013",
+      "county": "Brown",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20015",
+      "county": "Butler",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20017",
+      "county": "Chase",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20019",
+      "county": "Chautauqua",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20029",
+      "county": "Cloud",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20031",
+      "county": "Coffey",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20035",
+      "county": "Cowley",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20043",
+      "county": "Doniphan",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20047",
+      "county": "Edwards",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20049",
+      "county": "Elk",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20051",
+      "county": "Ellis",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20053",
+      "county": "Ellsworth",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20065",
+      "county": "Graham",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20067",
+      "county": "Grant",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20071",
+      "county": "Greeley",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20073",
+      "county": "Greenwood",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20075",
+      "county": "Hamilton",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20077",
+      "county": "Harper",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20079",
+      "county": "Harvey",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20081",
+      "county": "Haskell",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20083",
+      "county": "Hodgeman",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20089",
+      "county": "Jewell",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20093",
+      "county": "Kearny",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20103",
+      "county": "Leavenworth",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20107",
+      "county": "Linn",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20111",
+      "county": "Lyon",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20113",
+      "county": "McPherson",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20115",
+      "county": "Marion",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20119",
+      "county": "Meade",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20121",
+      "county": "Miami",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20123",
+      "county": "Mitchell",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20125",
+      "county": "Montgomery",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20127",
+      "county": "Morris",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20129",
+      "county": "Morton",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20135",
+      "county": "Ness",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20137",
+      "county": "Norton",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20139",
+      "county": "Osage",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20141",
+      "county": "Osborne",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20145",
+      "county": "Pawnee",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20157",
+      "county": "Republic",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20159",
+      "county": "Rice",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20163",
+      "county": "Rooks",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20165",
+      "county": "Rush",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20167",
+      "county": "Russell",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20175",
+      "county": "Seward",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20179",
+      "county": "Sheridan",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20183",
+      "county": "Smith",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20185",
+      "county": "Stafford",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20187",
+      "county": "Stanton",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20189",
+      "county": "Stevens",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20195",
+      "county": "Trego",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20199",
+      "county": "Wallace",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20201",
+      "county": "Washington",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20203",
+      "county": "Wichita",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    },
+    {
+      "fips": "20207",
+      "county": "Woodson",
+      "pixel": 0.0,
+      "centroid": 0.0,
+      "area": 0.0,
+      "difference": 0.0
+    }
+  ]
+}
