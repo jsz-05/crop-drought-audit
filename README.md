@@ -11,7 +11,10 @@ Use Python 3.12 and install the dependencies:
 python3 -m pip install -r requirements.txt
 ```
 
-Open `analysis/reporting_audit.ipynb` in VS Code or Jupyter and run the cells.
+Open `analysis/reporting_audit.ipynb` in VS Code with the Jupyter extension,
+or in an existing Jupyter installation, and run the cells. The requirements
+install the Python kernel. To add the Jupyter Notebook interface separately,
+run `python3 -m pip install notebook`.
 The default is Kansas, August 29 to September 5, 2023. Change the state, dates,
 number of crop-count cells, or county in the first code cell to try another case.
 Choose consecutive dates, seven days apart.
@@ -24,9 +27,10 @@ From this folder, run:
 python3 analysis/reproduce.py
 ```
 
-This recomputes the map comparisons, checks the stored results, and regenerates
-the figures. All inputs are bundled, so no download is needed. Full reproduction
-uses several GB of RAM. Tables are in `results/`, and plots are in `figures/`.
+This runs `analysis/reproduce_panel.py`, the geometry and summary checks, and
+the plotting scripts. All inputs are bundled, so no data download is needed.
+The panel step peaked at 2.13 GiB on an M4 Pro. Allow several GB of free RAM
+for the full workflow. Tables are in `results/`, and plots are in `figures/`.
 
 ## Data
 
